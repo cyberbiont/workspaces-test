@@ -1,0 +1,11 @@
+{
+  "name": "@workspaces-test/angular",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'all tests passed!'"
+  },
+  "dependencies": {
+    "@angular/compiler": "^12.2.7"
+  }
+}
